@@ -1,2 +1,4 @@
 # OS
-This is the course OS in SYSU
+This is the homework and reference of course OS in SYSU
+
+Teacher: Yingbiao Ling
